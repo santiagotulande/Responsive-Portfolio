@@ -1,4 +1,8 @@
 /**recommended-homework-assignment**/
+
+/** I have added the @ media queries. in theory, i think they are working as expected since i seee the
+the background color change when the screen reach the set width. however i believe that the issue 
+wraooing is due to the way i set up my initial HTML not using grid.*/
 * {
     box-sizing: border-box;
     text-align: center;
